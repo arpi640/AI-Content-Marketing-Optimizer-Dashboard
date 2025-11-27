@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 
-.env
+.env/
 
 credentials/ 
 *.json
@@ -18,3 +18,4 @@ models/
 *.joblib
 
 
+.env
